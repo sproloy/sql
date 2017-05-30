@@ -1,0 +1,13 @@
+{
+    "$schema": "https://github.com/sproloy/sql/blob/master/Artifacts/Sql/artifact.json",
+    "title": "SQL server express editition",
+    "description": "Installs SQL server",
+    "tags": [
+        "Windows",
+        "Sql"
+    ],
+    "targetOsType": "Windows",
+    "runCommand": {
+        "commandToExecute": "powershell.exe -ExecutionPolicy bypass sql.ps1"
+    }
+}
