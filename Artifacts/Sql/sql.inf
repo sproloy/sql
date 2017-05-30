@@ -1,0 +1,8 @@
+
+
+[Setup]
+Lang=english
+Dir=C:\Program Files (x86)\Micosoft SQL Server Editions
+Group=SQL Server 2016 SP1 Express edition
+NoIcons=0
+Tasks=desktopicon,addcontextmenufiles,addcontextmenufolders,addtopath
